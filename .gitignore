@@ -1,0 +1,8 @@
+/.editorconfig
+/Properties
+/appsettings.Development.json
+/appsettings.json
+/aspnet web api.csproj
+/aspnet web api.sln
+/bin
+/obj
